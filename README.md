@@ -4,7 +4,7 @@
 
 > Free React Admin Dashboard made with Material-UI components and React.
 
-![preview](public/assets/preview.jpg)
+![33](https://github.com/user-attachments/assets/835eb44a-aa98-459a-9570-60e6cf0a19f4)
 
 ## Demo
 
@@ -43,4 +43,5 @@ Distributed under the MIT License. See [LICENSE](https://github.com/minimal-ui-k
 
 ## Contact us
 
-Email: support@minimals.cc
+Email: ilyas02828@gmail.com
+
